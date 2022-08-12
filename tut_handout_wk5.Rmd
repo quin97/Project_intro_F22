@@ -31,16 +31,30 @@ At the beginning of the tutorial, watch these two videos with the students (play
 
 - **An 11 min video on thinking behind developing cancer treatment:** [https://www.youtube.com/watch?v=7zk0ubr_lzo&list=PLSQl0a2vh4HBC-y3HzLVtvoCWk36MrWyn&index=4](https://www.youtube.com/watch?v=7zk0ubr_lzo&list=PLSQl0a2vh4HBC-y3HzLVtvoCWk36MrWyn&index=4) 
 
-- If students have questions about genotype vs phenotype:
+$~$
+
+Topics to discuss after watching the video (can do this later during class discussion):
+
+- Cancers are abnormally-behaving cells (phenotype) caused by gene mutations (genotype). The cells used to generate this dataset are melanoma cell lines -- a type of aggressive skin cancer cell modified for culturing in the lab.
+
+- Genotype vs phenotype:
 
   - "Genotype" is genotype is an organism's unique sequence of DNA
   - "Phenotype" is an organism's actual observed properties, such as morphology, development, or behavior
   
-- After these videos students should understand (debrief after discussion with the whole class): 
-  - Cancers are abnormally-behaving cells (phenotype) caused by gene mutations (genotype)
-  - Protein levels, specifically, transcription factor levels, are associated with/surrogates of cell genotypes.
-  - We can arrive at a defination/understandting of cell states/phenotypes through combinations of protein levels.
-  - Cancer treatments are possible through multiple ways but in this particular dataset, we hope to achieve that by addressing the causes (i.e. correcting mutations)
+- Proteomics:
+  - The proteome is the entire set of proteins produced or modified by an organism.
+  - According to the central dogma, the flow of genetic information follows the direction: DNA $\rightarrow$ RNA $\rightarrow$ protein. Therefore proteins can be thought of as an intermediate between genotype and phenotype.
+  - In the context of this dataset:
+    - Levels of 22 transcription factors (which are proteins), are associated with/surrogates of cell genotypes
+    - Combinatorial levels of 4 specific proteins (MiTFg, NGFR, SOX10, and AXL) are used to define/characterize cell state/phenotype
+
+
+- Cancer treatments
+  - main goals are to slow/stop the proliferation and expansion of malignant cells
+  - possible through multiple ways: killing mutated cells, modifying mutations in the cell, changing tumor environment 
+  - in this particular dataset, we hope to change deleterious phenotypes to healthy phenotypes by controlling the transcription factor network
+  - what you can do, for example, is to look for changes in transcription factor network dependency structure under different experimental conditions
 
 #### Team up & introduction (10 min) :
 
