@@ -86,7 +86,11 @@ Ask students reconvene to clarify their understanding/questions of the project. 
 
 #### Scientific poster (20 min) :
 
-Walk through the handout on scientific handout with the students so they understand:
+$~$
+
+Let the students familiarize with the project template (and create a simple file out of it, if time allows): [`project-template.Rmd`](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSamanthaJoCaetano%2FW22-ProjectTemplate.git&urlpath=rstudio%2F&branch=master)
+
+Walk through the handout on scientific poster and 3 examples so the students understand:
 
 - components/sections of a scientific poster
 - what makes a good scientific poster
